@@ -1,0 +1,44 @@
+section {
+  border: 1px solid #0b893e;
+  padding: 15px;
+  margin: 20px 0;
+  box-shadow: 0 0 5px #03643a;
+}
+.Title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  color: aliceblue;
+}
+.sub {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: rgb(244, 246, 247);
+}
+.biodata {
+  background-color: rgb(50, 109, 109);
+  background-size: 30px;
+  padding: 20px;
+  color: aliceblue;
+  font-size: 20px;
+}
+.pendidikan {
+  background-color: rgb(8, 137, 137);
+  background-size: 30px;
+  padding: 20px;
+  color: aliceblue;
+  font-size: 20px;
+}
+.skills {
+  background-color: rgb(50, 109, 109);
+  background-size: 30px;
+  padding: 20px;
+  color: aliceblue;
+  font-size: 20px;
+}
+.experience {
+  background-color: rgb(8, 137, 137);
+  background-size: 30px;
+  padding: 20px;
+  color: aliceblue;
+  font-size: 20px;
+}
